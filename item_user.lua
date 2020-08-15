@@ -1,5 +1,3 @@
-sleep_time = 10
-
 while true do
     turtle.select(1)
     hoe = turtle.getItemCount()
@@ -7,5 +5,5 @@ while true do
         break
         end
     turtle.place()
-    sleep(sleept_time)
+    sleep(10)
     end
