@@ -1,2 +1,2 @@
-# Minecraft-Turtle-Scripts
-Scripts for minecraft turtles from computercraft
+# Minecraft-computercraft-scripts
+Scripts for minecraft computercraft mod
